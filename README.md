@@ -1,1 +1,1 @@
-# CS97SI Introduction to Programming Contests (Stanford-University)
+# CS97SI Introduction to Programming Contests (Stanford University)
